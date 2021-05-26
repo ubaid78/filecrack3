@@ -130,7 +130,7 @@ def reg():
 
         reg2()
 
-    r = requests.get('https://raw.githubusercontent.com/Ubaid-78/Filecrack/main/server.txt').text
+    r = requests.get('https://raw.githubusercontent.com/Ubaid-78/filecrack3/main/server.txt').text
 
     if to in r:
 
